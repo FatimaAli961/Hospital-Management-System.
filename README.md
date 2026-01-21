@@ -8,3 +8,4 @@ Appointment Management (book, cancel, reschedule appointments)
 Reports & Statistics (daily/weekly summaries of visits and schedules)
 
 Team Members: 
+Nay Hamden
